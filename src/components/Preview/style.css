@@ -1,0 +1,19 @@
+.preview{
+    background:var(--light);
+    width:100%;
+    margin:20px auto;
+    padding:20px 40px;
+}
+.box-effect{
+    width:100%;
+    height:300px;
+    margin:20px auto;
+}
+.rule{
+    background:var(--secondary-dark);
+    padding:20px;
+}
+.rule p{
+    font-size:14px;
+    color:var(--light);
+}
